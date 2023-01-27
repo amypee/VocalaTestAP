@@ -7,6 +7,7 @@ I've also created a very basic HTML to interact with the webapi. You can find th
 
 Things I would of improved on if I had more time:
 
+- Add comments throughout so the code would be easier to understand and maintain further down the line 
 - Add validations the the request model before entering into the database (sql injection and general validations)
 - Add these validations to the front end for client side valdiations
 - Use JWT to authenticate with the API
